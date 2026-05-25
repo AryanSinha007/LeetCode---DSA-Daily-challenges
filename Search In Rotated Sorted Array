@@ -1,0 +1,38 @@
+class Solution {
+public:
+    // Function to search for a target value in a rotated sorted array
+    int search(vector<int>& nums, int target) {
+        int n = nums.size(); // Get the size of the array
+        int low = 0;        // Initialize the low index to the start of the array
+        int high = n - 1;   // Initialize the high index to the end of the array
+        
+        // Continue searching while the low index is less than or equal to the high index
+        while (low <= high) {
+            int mid = (low + high) / 2; // Calculate the middle index
+            
+            // Check if the middle element is the target
+            if (nums[mid] == target) {
+                return mid; // If found, return the index
+            }
+            
+            // Check if the left half of the array is sorted
+            if (nums[low] <= nums[mid]) {
+                // If the target is within the range of the sorted left half
+                if (nums[low] <= target && target <= nums[mid]) {
+                    high = mid - 1; // Narrow the search to the left half
+                } else {
+                    low = mid + 1; // Narrow the search to the right half
+                }
+            } else { // If the right half of the array is sorted
+                // If the target is within the range of the sorted right half
+                if (nums[mid] <= target && target <= nums[high]) {
+                    low = mid + 1; // Narrow the search to the right half
+                } else {
+                    high = mid - 1; // Narrow the search to the left half
+                }
+            }
+        }
+        
+        return -1; // If the target is not found, return -1
+    }
+};
