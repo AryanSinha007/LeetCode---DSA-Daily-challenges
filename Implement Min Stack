@@ -1,0 +1,110 @@
+class MinStack {
+public:
+
+    // Stack to store elements
+    // We use long long because encoded values
+    // may become large/small during calculations
+    stack<long long> st;
+
+    // Variable to store current minimum element
+    long long mini;
+
+    // Constructor
+    MinStack() {
+        
+    }
+    
+    // Push element into stack
+    void push(int val) {
+
+        // If stack is empty
+        if (st.empty()) {
+
+            // Directly push first element
+            st.push(val);
+
+            // First element is minimum
+            mini = val;
+        }
+        else {
+
+            // If new value is greater than current minimum
+            // push normally
+            if (val >= mini) {
+                st.push(val);
+            }
+            else {
+
+                /*
+                    If new value is smaller than minimum,
+                    store encoded value:
+
+                    encoded = 2*val - mini
+
+                    This helps us recover previous minimum later.
+                */
+                st.push(2LL * val - mini);
+
+                // Update minimum
+                mini = val;
+            }
+        }
+    }
+    
+    // Remove top element
+    void pop() {
+
+        // If stack is empty do nothing
+        if (st.empty()) {
+            return;
+        }
+
+        // Get top element
+        long long x = st.top();
+
+        // Remove it
+        st.pop();
+
+        /*
+            If x < mini,
+            it means x is an encoded value.
+
+            Restore previous minimum using:
+
+            previousMin = 2*mini - encodedValue
+        */
+        if (x < mini) {
+            mini = 2 * mini - x;
+        }
+    }
+    
+    // Return top element
+    int top() {
+
+        // Get top value
+        long long x = st.top();
+
+        /*
+            If x >= mini,
+            it is a normal value.
+        */
+        if (x >= mini) {
+            return x;
+        }
+
+        /*
+            If x < mini,
+            it means encoded value is stored.
+
+            Actual top element is current minimum.
+        */
+        return mini;
+    }
+    
+    // Return minimum element
+    int getMin() {
+
+        // mini always stores minimum
+        return mini;
+    }
+};
