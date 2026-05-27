@@ -1,0 +1,46 @@
+class Solution {
+public:
+    // Function to find all unique triplets in the array that sum up to zero
+    vector<vector<int>> threeSum(vector<int>& nums) {
+        vector<vector<int>> ans; // To store the result triplets
+        int n = nums.size(); // Get the size of the input vector
+        sort(nums.begin(), nums.end()); // Sort the array to facilitate the two-pointer approach
+
+        // Iterate through the sorted array
+        for (int i = 0; i < n; i++) {
+            // Skip duplicate elements to avoid repeated triplets
+            if (i > 0 && nums[i] == nums[i - 1]) continue;
+
+            // Initialize two pointers: one just after the current element (j), and one at the end (k)
+            int j = i + 1;
+            int k = n - 1;
+
+            // Use a while loop to find pairs that sum with nums[i] to zero
+            while (j < k) {
+                int sum = nums[i] + nums[j] + nums[k]; // Calculate the sum of the triplet
+
+                // If the sum is less than zero, move the left pointer to the right to increase the sum
+                if (sum < 0) {
+                    j++;
+                }
+                // If the sum is greater than zero, move the right pointer to the left to decrease the sum
+                else if (sum > 0) {
+                    k--;
+                }
+                // If the sum is zero, we found a valid triplet
+                else {
+                    vector<int> temp = {nums[i], nums[j], nums[k]}; // Create a triplet
+                    ans.push_back(temp); // Add the triplet to the result list
+                    j++; // Move the left pointer to the right
+                    k--; // Move the right pointer to the left
+
+                    // Skip duplicate elements for the left pointer
+                    while (j < k && nums[j] == nums[j - 1]) j++;
+                    // Skip duplicate elements for the right pointer
+                    while (j < k && nums[k] == nums[k + 1]) k--;
+                }
+            }
+        }
+        return ans; // Return the list of unique triplets
+    }
+};
