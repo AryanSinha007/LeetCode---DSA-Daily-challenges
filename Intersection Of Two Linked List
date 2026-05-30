@@ -1,0 +1,36 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;                // Value of the node
+ *     ListNode *next;        // Pointer to the next node
+ *     ListNode(int x) : val(x), next(NULL) {} // Constructor to initialize the node
+ * };
+ */
+
+class Solution {
+public:
+    // Function to find the intersection node of two linked lists
+    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+        // Initialize two pointers, one for each linked list
+        ListNode* temp1 = headA; // Pointer for list A
+        ListNode* temp2 = headB; // Pointer for list B
+        
+        // Loop until the two pointers meet
+        while (temp1 != temp2) {
+            // Move both pointers to the next node
+            temp1 = temp1->next; // Move temp1 to the next node in list A
+            temp2 = temp2->next; // Move temp2 to the next node in list B
+            
+            // If they meet, return the intersection node
+            if (temp1 == temp2) return temp1;
+
+            // If temp1 reaches the end of list A, switch to headB
+            if (temp1 == nullptr) temp1 = headB; 
+            // If temp2 reaches the end of list B, switch to headA
+            if (temp2 == nullptr) temp2 = headA; 
+        }
+        
+        // At this point, temp1 and temp2 are either both nullptr or point to the intersection node
+        return temp1; // Return the intersection node or nullptr if there's no intersection
+    }
+};
