@@ -1,0 +1,30 @@
+class Solution {
+public:
+    vector<int> nextGreaterElements(vector<int>& nums) {
+        // Create a stack to keep track of the indices of elements
+        stack<int> st;
+        // Get the size of the input array
+        int n = nums.size();
+        // Initialize a vector to store the next greater elements, defaulting to -1
+        vector<int> nge(n, -1);
+        
+        // Loop through the array twice (2 * n) to handle the circular nature of the problem
+        for (int i = 2 * n - 1; i >= 0; i--) {
+            // While the stack is not empty and the top element in the stack is less than or equal to the current element
+            while (!st.empty() && st.top() <= nums[i % n]) {
+                // Pop elements from the stack as they cannot be the next greater element for this or any previous element
+                st.pop();
+            }
+            // If we are within the bounds of the original array (i < n)
+            if (i < n) {
+                // If the stack is empty, there is no greater element; otherwise, the top of the stack is the next greater element
+                nge[i] = st.empty() ? -1 : st.top();
+            }
+            // Push the current element onto the stack for future comparisons
+            st.push(nums[i % n]);
+        }
+        
+        // Return the vector containing the next greater elements for each element in the input array
+        return nge;
+    }
+};
