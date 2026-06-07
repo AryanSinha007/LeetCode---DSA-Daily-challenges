@@ -1,0 +1,101 @@
+class Solution {
+public:
+
+    // Find Next Smaller Element index for every element
+    vector<int> findNSE(vector<int>& arr) {
+        int n = arr.size();
+
+        stack<int> st;          // stores indices
+        vector<int> nse(n);
+
+        // Traverse from right to left
+        for (int i = n - 1; i >= 0; i--) {
+
+            // Remove all elements greater than or equal to current element
+            // because they can never be the next smaller element
+            while (!st.empty() && arr[st.top()] >= arr[i]) {
+                st.pop();
+            }
+
+            // If stack is empty, no smaller element exists on right
+            // so store n (out of bounds index)
+            // Otherwise store index of next smaller element
+            nse[i] = st.empty() ? n : st.top();
+
+            // Push current index into stack
+            st.push(i);
+        }
+
+        return nse;
+    }
+
+    // Find Previous Smaller Element index for every element
+    vector<int> findPSE(vector<int>& arr) {
+        int n = arr.size();
+
+        vector<int> pse(n);
+        stack<int> st;
+
+        // Traverse from left to right
+        for (int i = 0; i < n; i++) {
+
+            // Remove all elements strictly greater than current element
+            // This keeps the nearest smaller-or-equal element on left
+            while (!st.empty() && arr[st.top()] > arr[i]) {
+                st.pop();
+            }
+
+            // If stack is empty, no smaller element exists on left
+            // so store -1
+            // Otherwise store index of previous smaller element
+            pse[i] = st.empty() ? -1 : st.top();
+
+            // Push current index
+            st.push(i);
+        }
+
+        return pse;
+    }
+
+    int sumSubarrayMins(vector<int>& arr) {
+        int n = arr.size();
+
+        // Get next smaller element indices
+        vector<int> NSE = findNSE(arr);
+
+        // Get previous smaller element indices
+        vector<int> PSE = findPSE(arr);
+
+        int mod = 1e9 + 7;
+        long long total = 0;
+
+        // Calculate contribution of every element
+        for (int i = 0; i < n; i++) {
+
+            // Number of choices on left side
+            long long left = i - PSE[i];
+
+            // Number of choices on right side
+            long long right = NSE[i] - i;
+
+            /*
+                Contribution formula:
+
+                left  = number of possible starting positions
+                right = number of possible ending positions
+
+                Therefore:
+                total subarrays where arr[i] is minimum
+                = left * right
+
+                Contribution of arr[i]
+                = arr[i] * left * right
+            */
+            total = (total +
+                    (left * right % mod) * arr[i] % mod)
+                    % mod;
+        }
+
+        return (int)total;
+    }
+};
