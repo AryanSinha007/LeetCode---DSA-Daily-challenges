@@ -1,0 +1,60 @@
+class Solution {
+public:
+    int trap(vector<int>& height) {
+
+        // Stores maximum height seen so far from left side
+        int lmax = 0;
+
+        // Stores maximum height seen so far from right side
+        int rmax = 0;
+
+        // Final amount of trapped water
+        int total = 0;
+
+        int n = height.size();
+
+        // Left pointer
+        int l = 0;
+
+        // Right pointer
+        int r = n - 1;
+
+        // Process until pointers meet
+        while (l < r) {
+
+            // Work on the side having smaller height
+            if (height[l] < height[r]) {
+
+                // If current bar is smaller than left maximum,
+                // water can be trapped here
+                if (lmax > height[l]) {
+                    total += lmax - height[l];
+                }
+                else {
+                    // Update left maximum
+                    lmax = height[l];
+                }
+
+                // Move left pointer
+                l++;
+            }
+            else {
+
+                // If current bar is smaller than right maximum,
+                // water can be trapped here
+                if (rmax > height[r]) {
+                    total += rmax - height[r];
+                }
+                else {
+                    // Update right maximum
+                    rmax = height[r];
+                }
+
+                // Move right pointer
+                r--;
+            }
+        }
+
+        return total;
+    }
+};
