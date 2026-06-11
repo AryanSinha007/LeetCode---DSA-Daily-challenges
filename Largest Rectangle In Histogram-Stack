@@ -1,0 +1,67 @@
+class Solution {
+public:
+    int largestRectangleArea(vector<int>& heights) {
+        int n = heights.size();
+
+        // Stores indices of bars.
+        // Heights corresponding to these indices are maintained
+        // in increasing order.
+        stack<int> st;
+
+        int maxArea = 0;
+
+        // Traverse all histogram bars
+        for (int i = 0; i < n; i++) {
+
+            // If current bar is smaller than the bar at stack top,
+            // then current bar becomes the Next Smaller Element (NSE)
+            // for the bars being popped.
+            while (!st.empty() && heights[st.top()] > heights[i]) {
+
+                // Index of the bar whose area we're calculating
+                int element = st.top();
+                st.pop();
+
+                // Current index is the Next Smaller Element
+                int nse = i;
+
+                // After popping, stack top is Previous Smaller Element
+                int pse = st.empty() ? -1 : st.top();
+
+                // Width of rectangle where heights[element]
+                // is the minimum height
+                int width = nse - pse - 1;
+
+                // Area formed using heights[element]
+                int area = heights[element] * width;
+
+                maxArea = max(maxArea, area);
+            }
+
+            // Push current index
+            st.push(i);
+        }
+
+        // Process remaining elements in stack
+        // For them, there is no smaller element on the right
+        while (!st.empty()) {
+
+            int element = st.top();
+            st.pop();
+
+            // No smaller element on right
+            int nse = n;
+
+            // Previous smaller element
+            int pse = st.empty() ? -1 : st.top();
+
+            int width = nse - pse - 1;
+
+            int area = heights[element] * width;
+
+            maxArea = max(maxArea, area);
+        }
+
+        return maxArea;
+    }
+};
