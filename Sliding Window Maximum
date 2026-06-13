@@ -1,0 +1,50 @@
+class Solution {
+public:
+    vector<int> maxSlidingWindow(vector<int>& nums, int k) {
+
+        // Deque stores INDICES, not values.
+        // Elements in deque are kept in decreasing order of their values.
+        deque<int> dq;
+
+        // Stores the maximum of each window
+        vector<int> ans;
+
+        int n = nums.size();
+
+        for (int i = 0; i < n; i++) {
+
+            // Step 1:
+            // Remove indices that are outside the current window.
+            //
+            // Current window is [i-k+1, i]
+            // If an index <= i-k, it is no longer in the window.
+            if (!dq.empty() && dq.front() <= i - k) {
+                dq.pop_front();
+            }
+
+            // Step 2:
+            // Remove all smaller (or equal) elements from the back.
+            //
+            // Why?
+            // If nums[i] is larger, those smaller elements can never
+            // become the maximum while nums[i] remains in the window.
+            while (!dq.empty() && nums[dq.back()] <= nums[i]) {
+                dq.pop_back();
+            }
+
+            // Step 3:
+            // Insert current index.
+            dq.push_back(i);
+
+            // Step 4:
+            // Once the first window of size k is formed,
+            // the front of deque always contains the index
+            // of the maximum element in the current window.
+            if (i >= k - 1) {
+                ans.push_back(nums[dq.front()]);
+            }
+        }
+
+        return ans;
+    }
+};
