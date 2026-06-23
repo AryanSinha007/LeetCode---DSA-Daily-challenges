@@ -1,0 +1,120 @@
+class LRUCache {
+
+    // Doubly Linked List Node
+    struct Node {
+        int key, value;      // store key-value pair
+        Node* prev;
+        Node* next;
+
+        Node(int k, int v)
+            : key(k), value(v), prev(nullptr), next(nullptr) {}
+    };
+
+    int cap;    // maximum capacity of cache
+
+    // key -> address of node in DLL
+    unordered_map<int, Node*> mpp;
+
+    // Dummy head and tail nodes
+    Node* head = new Node(-1, -1);
+    Node* tail = new Node(-1, -1);
+
+public:
+
+    LRUCache(int capacity) {
+        cap = capacity;
+
+        // Initially:
+        // head <-> tail
+        head->next = tail;
+        tail->prev = head;
+    }
+
+    // Insert node right after head
+    // This position represents Most Recently Used (MRU)
+    void addNode(Node* newNode) {
+
+        Node* temp = head->next;
+
+        // head <-> newNode <-> temp
+
+        newNode->next = temp;
+        temp->prev = newNode;
+
+        head->next = newNode;
+        newNode->prev = head;
+    }
+
+    // Remove a node from the doubly linked list
+    void deleteNode(Node* delnode) {
+
+        Node* prevNode = delnode->prev;
+        Node* nextNode = delnode->next;
+
+        prevNode->next = nextNode;
+        nextNode->prev = prevNode;
+    }
+
+    int get(int key) {
+
+        // Check if key exists
+        if (mpp.find(key) != mpp.end()) {
+
+            Node* node = mpp[key];
+
+            // Move accessed node to front
+            // because it becomes most recently used
+
+            deleteNode(node);
+            addNode(node);
+
+            return node->value;
+        }
+
+        // Key not present
+        return -1;
+    }
+
+    void put(int key, int value) {
+
+        // Edge case
+        if (cap == 0)
+            return;
+
+        // If key already exists
+        if (mpp.find(key) != mpp.end()) {
+
+            Node* node = mpp[key];
+
+            // Remove old node
+            mpp.erase(key);
+            deleteNode(node);
+            delete node;
+        }
+
+        // Cache full ?
+        if (mpp.size() == cap) {
+
+            // Node before tail is Least Recently Used
+            Node* lru = tail->prev;
+
+            // Remove from map
+            mpp.erase(lru->key);
+
+            // Remove from DLL
+            deleteNode(lru);
+
+            // (Better to free memory too)
+            delete lru;
+        }
+
+        // Create new node
+        Node* newNode = new Node(key, value);
+
+        // Insert at front (MRU position)
+        addNode(newNode);
+
+        // Store address in hashmap
+        mpp[key] = newNode;
+    }
+};
