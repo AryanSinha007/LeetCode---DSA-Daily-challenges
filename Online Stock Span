@@ -1,0 +1,46 @@
+class StockSpanner {
+public:
+
+    // Stack stores:
+    // {price, index}
+    stack<pair<int,int>> st;
+
+    // Current day index
+    int idx;
+
+    StockSpanner() {
+
+        // No prices processed yet
+        idx = -1;
+    }
+
+    int next(int price) {
+
+        // Move to next day
+        idx++;
+
+        // Remove all previous prices
+        // that are <= current price
+        //
+        // They cannot be the answer for
+        // future greater prices.
+        while (!st.empty() && st.top().first <= price) {
+            st.pop();
+        }
+
+        // After popping:
+        //
+        // Either stack is empty
+        // OR top has a greater price than current
+        //
+        // Span =
+        // current index - previous greater element index
+
+        int ans = idx - (st.empty() ? -1 : st.top().second);
+
+        // Store current price and index
+        st.push({price, idx});
+
+        return ans;
+    }
+};
