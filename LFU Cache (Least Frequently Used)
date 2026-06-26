@@ -1,0 +1,121 @@
+class LFUCache {
+
+    // Maximum number of elements the cache can hold
+    int capacity;
+
+    // Stores the minimum frequency currently present in the cache
+    int minfreq;
+
+    // key -> {value, frequency}
+    unordered_map<int, pair<int,int>> cache;
+
+    // frequency -> list of keys
+    // Keys with the same frequency are stored together.
+    // Front = Most Recently Used (MRU)
+    // Back = Least Recently Used (LRU)
+    unordered_map<int, list<int>> freqList;
+
+    // key -> iterator pointing to its position in the frequency list
+    // This allows O(1) deletion from the list.
+    unordered_map<int, list<int>::iterator> position;
+
+public:
+
+    // Constructor
+    LFUCache(int capacity) {
+        this->capacity = capacity;
+        minfreq = 0;          // Initially no key is present
+    }
+
+    // Returns value of key if present, otherwise -1
+    int get(int key) {
+
+        // Key not present
+        if(cache.find(key) == cache.end())
+            return -1;
+
+        // Retrieve value and current frequency
+        int value = cache[key].first;
+        int freq = cache[key].second;
+
+        // Remove key from its old frequency list
+        freqList[freq].erase(position[key]);
+
+        // If no key is left with this frequency
+        if(freqList[freq].empty()){
+
+            // Remove the empty list
+            freqList.erase(freq);
+
+            // If this was the minimum frequency,
+            // increment minimum frequency
+            if(minfreq == freq)
+                minfreq++;
+        }
+
+        // Increase frequency of the key
+        cache[key].second++;
+
+        // Insert key at the front of the next frequency list
+        // (Most Recently Used among that frequency)
+        freqList[freq + 1].push_front(key);
+
+        // Store iterator of newly inserted key
+        position[key] = freqList[freq + 1].begin();
+
+        // Return stored value
+        return value;
+    }
+
+    // Inserts or updates a key
+    void put(int key, int value) {
+
+        // Cache capacity is zero
+        if(capacity == 0)
+            return;
+
+        // Key already exists
+        if(cache.find(key) != cache.end()) {
+
+            // Update value
+            cache[key].first = value;
+
+            // Increase frequency by calling get()
+            get(key);
+
+            return;
+        }
+
+        // Cache is full
+        if(cache.size() == capacity) {
+
+            // Remove Least Frequently Used key
+            // If multiple keys have same frequency,
+            // remove the Least Recently Used (back of list)
+            int removekey = freqList[minfreq].back();
+
+            // Remove from frequency list
+            freqList[minfreq].pop_back();
+
+            // Remove from hash maps
+            cache.erase(removekey);
+            position.erase(removekey);
+
+            // Remove frequency list if it becomes empty
+            if(freqList[minfreq].empty())
+                freqList.erase(minfreq);
+        }
+
+        // Insert new key with frequency = 1
+        cache[key] = {value, 1};
+
+        // Add key to frequency 1 list
+        freqList[1].push_front(key);
+
+        // Store iterator
+        position[key] = freqList[1].begin();
+
+        // New minimum frequency becomes 1
+        minfreq = 1;
+    }
+};
