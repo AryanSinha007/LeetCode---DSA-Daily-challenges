@@ -1,0 +1,51 @@
+class Solution {
+public:
+    int lengthOfLongestSubstring(string s) {
+
+        // hash[i] stores the last index where character i was seen.
+        // Initialize all values to -1, meaning "character not seen yet".
+        int hash[256];
+        fill(hash, hash + 256, -1);
+
+        int n = s.size();
+
+        // l = left pointer of sliding window
+        // r = right pointer of sliding window
+        // maxlen = maximum length found so far
+        // len = current window length
+        int l = 0, r = 0, maxlen = 0, len = 0;
+
+        // If the string is empty, answer is 0.
+        if (s.empty())
+            return 0;
+
+        // Expand the window by moving the right pointer.
+        while (r < n) {
+
+            // Check if current character has been seen before.
+            if (hash[s[r]] != -1) {
+
+                // If the previous occurrence lies inside the current window,
+                // move the left pointer just after that occurrence.
+                if (hash[s[r]] >= l) {
+                    l = hash[s[r]] + 1;
+                }
+            }
+
+            // Calculate the current window length.
+            len = r - l + 1;
+
+            // Update the maximum length found.
+            maxlen = max(len, maxlen);
+
+            // Store the latest index of the current character.
+            hash[s[r]] = r;
+
+            // Move the right pointer to expand the window.
+            r++;
+        }
+
+        // Return the length of the longest substring without repeating characters.
+        return maxlen;
+    }
+};
