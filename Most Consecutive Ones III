@@ -1,0 +1,59 @@
+class Solution {
+public:
+    int longestOnes(vector<int>& nums, int k) {
+
+        // Left pointer of the sliding window
+        int l = 0;
+
+        // Right pointer of the sliding window
+        int r = 0;
+
+        // Stores the current valid window length
+        int len = 0;
+
+        // Stores the maximum window length found so far
+        int maxlen = 0;
+
+        // Counts the number of 0's inside the current window
+        int zeroes = 0;
+
+        // Expand the window until the right pointer reaches the end
+        while (r < nums.size()) {
+
+            // If the current element is 0, include it in the zero count
+            if (nums[r] == 0)
+                zeroes++;
+
+            // If the number of zeroes exceeds k,
+            // shrink the window from the left
+            if (zeroes > k) {
+
+                // If the element leaving the window is a 0,
+                // decrease the zero count
+                if (nums[l] == 0) {
+                    zeroes--;
+                }
+
+                // Move the left pointer forward
+                l++;
+            }
+
+            // If the current window has at most k zeroes,
+            // it is a valid window
+            if (zeroes <= k) {
+
+                // Calculate the current window length
+                len = r - l + 1;
+            }
+
+            // Update the maximum valid window length
+            maxlen = max(len, maxlen);
+
+            // Expand the window by moving the right pointer
+            r++;
+        }
+
+        // Return the length of the longest valid subarray
+        return maxlen;
+    }
+};
