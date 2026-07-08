@@ -45,4 +45,12 @@
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1248-count-number-of-nice-subarrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
