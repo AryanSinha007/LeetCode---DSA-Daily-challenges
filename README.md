@@ -53,4 +53,5 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0191-number-of-1-bits) |
+| [2595-number-of-even-and-odd-bits](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/2595-number-of-even-and-odd-bits) |
 <!---LeetCode Topics End-->
