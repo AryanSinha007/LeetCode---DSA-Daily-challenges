@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1248-count-number-of-nice-subarrays) |
+| [1486-xor-operation-in-an-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1486-xor-operation-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -56,5 +57,6 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0191-number-of-1-bits) |
+| [1486-xor-operation-in-an-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1486-xor-operation-in-an-array) |
 | [2595-number-of-even-and-odd-bits](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/2595-number-of-even-and-odd-bits) |
 <!---LeetCode Topics End-->
