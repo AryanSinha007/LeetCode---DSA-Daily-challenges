@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0031-next-permutation) |
+| [0260-single-number-iii](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0260-single-number-iii) |
 | [0904-fruit-into-baskets](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0992-subarrays-with-k-different-integers) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0191-number-of-1-bits) |
+| [0260-single-number-iii](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0260-single-number-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1486-xor-operation-in-an-array) |
 | [2595-number-of-even-and-odd-bits](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/2595-number-of-even-and-odd-bits) |
 ## Counting
