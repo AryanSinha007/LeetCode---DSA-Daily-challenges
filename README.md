@@ -52,6 +52,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1248-count-number-of-nice-subarrays) |
 | [1486-xor-operation-in-an-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1486-xor-operation-in-an-array) |
 ## Divide and Conquer
@@ -63,6 +64,7 @@
 | ------- |
 | [0137-single-number-ii](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0260-single-number-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1486-xor-operation-in-an-array) |
 | [2595-number-of-even-and-odd-bits](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/2595-number-of-even-and-odd-bits) |
@@ -70,4 +72,8 @@
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0992-subarrays-with-k-different-integers) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
