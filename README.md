@@ -8,6 +8,7 @@
 | [0078-subsets](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0137-single-number-ii) |
+| [0204-count-primes](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0260-single-number-iii) |
 | [0904-fruit-into-baskets](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0930-binary-subarrays-with-sum) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0029-divide-two-integers) |
+| [0204-count-primes](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1248-count-number-of-nice-subarrays) |
 | [1486-xor-operation-in-an-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1486-xor-operation-in-an-array) |
@@ -87,4 +89,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
