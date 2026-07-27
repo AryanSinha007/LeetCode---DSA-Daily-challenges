@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1248-count-number-of-nice-subarrays) |
@@ -84,6 +85,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
