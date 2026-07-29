@@ -11,6 +11,7 @@
 | [0204-count-primes](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0260-single-number-iii) |
 | [0455-assign-cookies](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0992-subarrays-with-k-different-integers) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
