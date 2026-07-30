@@ -6,6 +6,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0031-next-permutation) |
 | [0078-subsets](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0078-subsets) |
+| [0135-candy](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0204-count-primes) |
@@ -105,6 +106,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0860-lemonade-change) |
 ## Sorting
