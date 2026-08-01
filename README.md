@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0031-next-permutation) |
+| [0055-jump-game](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0078-subsets) |
 | [0135-candy](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0136-single-number) |
@@ -107,6 +108,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0678-valid-parenthesis-string) |
@@ -118,6 +120,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
