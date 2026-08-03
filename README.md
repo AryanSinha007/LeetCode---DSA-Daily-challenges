@@ -7,6 +7,7 @@
 | [0031-next-permutation](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0078-subsets) |
 | [0135-candy](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0136-single-number) |
