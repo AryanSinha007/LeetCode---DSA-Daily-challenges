@@ -22,6 +22,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,4 +135,8 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0678-valid-parenthesis-string) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
