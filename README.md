@@ -134,9 +134,22 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0144-binary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0678-valid-parenthesis-string) |
 ## Simulation
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
