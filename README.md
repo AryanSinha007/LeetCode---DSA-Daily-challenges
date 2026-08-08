@@ -12,6 +12,7 @@
 | [0135-candy](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0137-single-number-ii) |
+| [0189-rotate-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0260-single-number-iii) |
 | [0435-non-overlapping-intervals](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0435-non-overlapping-intervals) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0031-next-permutation) |
+| [0189-rotate-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
@@ -67,6 +69,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1248-count-number-of-nice-subarrays) |
