@@ -37,6 +37,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -127,6 +128,7 @@
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0455-assign-cookies) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -170,6 +173,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -183,6 +187,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -190,6 +195,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
