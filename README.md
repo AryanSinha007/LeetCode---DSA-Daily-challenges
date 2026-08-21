@@ -18,6 +18,7 @@
 | [0435-non-overlapping-intervals](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0992-subarrays-with-k-different-integers) |
@@ -220,4 +221,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
