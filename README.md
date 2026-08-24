@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0455-assign-cookies) |
 ## Hash Table
@@ -230,4 +231,8 @@
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0875-koko-eating-bananas) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
