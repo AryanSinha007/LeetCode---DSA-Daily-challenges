@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0055-jump-game) |
@@ -35,6 +36,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0138-copy-list-with-random-pointer) |
 | [0424-longest-repeating-character-replacement](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0424-longest-repeating-character-replacement) |
