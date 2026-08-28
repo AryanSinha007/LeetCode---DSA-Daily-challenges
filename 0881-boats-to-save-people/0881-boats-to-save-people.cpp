@@ -6,19 +6,13 @@ public:
        int cnt=0;
        sort(people.begin(),people.end());
        while(i<=j){
-        if(people[j]==limit){
-            cnt++;
-            j--;
-        }
-        else if(people[i]+people[j]<=limit){
-            cnt++;
+       
+        if(people[i]+people[j]<=limit){
             i++;
-            j--;
         }
-        else{
+            j--;
             cnt++;
-            j--;
-        }
+        
        }
        return cnt;
     }
