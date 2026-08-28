@@ -42,6 +42,7 @@
 | [0202-happy-number](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0455-assign-cookies) |
+| [0844-backspace-string-compare](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -76,6 +77,7 @@
 | [0076-minimum-window-substring](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0844-backspace-string-compare) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
 |  |
@@ -166,9 +168,11 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0145-binary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0844-backspace-string-compare) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Tree
 |  |
