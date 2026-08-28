@@ -19,7 +19,6 @@ int sumofsquare(int n){
         while(slow!=fast);
             return slow==1;
         
-        
         }
     
 };
