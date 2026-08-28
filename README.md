@@ -18,6 +18,7 @@
 | [0189-rotate-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0860-lemonade-change) |
@@ -36,6 +37,7 @@
 | [0031-next-permutation](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
