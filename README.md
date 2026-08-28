@@ -38,6 +38,7 @@
 | [0031-next-permutation](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0977-squares-of-a-sorted-array) |
@@ -47,6 +48,7 @@
 | [0001-two-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0138-copy-list-with-random-pointer) |
+| [0202-happy-number](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0424-longest-repeating-character-replacement) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0904-fruit-into-baskets) |
@@ -85,6 +87,7 @@
 | [0029-divide-two-integers](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1248-count-number-of-nice-subarrays) |
@@ -248,4 +251,8 @@
 | ------- |
 | [0061-rotate-list](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0138-copy-list-with-random-pointer) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
