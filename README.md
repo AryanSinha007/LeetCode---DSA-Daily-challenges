@@ -25,6 +25,7 @@
 | [0875-koko-eating-bananas](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0930-binary-subarrays-with-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -39,6 +40,7 @@
 | [0189-rotate-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Dynamic Programming
 |  |
