@@ -74,6 +74,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0008-string-to-integer-atoi) |
 | [0076-minimum-window-substring](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0678-valid-parenthesis-string) |
