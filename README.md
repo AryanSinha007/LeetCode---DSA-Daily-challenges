@@ -122,6 +122,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
@@ -260,6 +261,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0138-copy-list-with-random-pointer) |
+| [0206-reverse-linked-list](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
