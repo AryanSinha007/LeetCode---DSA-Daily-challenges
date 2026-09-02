@@ -31,6 +31,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0231-power-of-two](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1248-count-number-of-nice-subarrays) |
 | [1486-xor-operation-in-an-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1486-xor-operation-in-an-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
