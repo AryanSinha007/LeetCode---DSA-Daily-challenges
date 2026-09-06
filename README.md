@@ -264,6 +264,7 @@
 | [0061-rotate-list](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0328-odd-even-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
