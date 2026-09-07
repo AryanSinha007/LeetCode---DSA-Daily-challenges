@@ -30,6 +30,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -258,6 +259,7 @@
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Linked List
 |  |
 | ------- |
