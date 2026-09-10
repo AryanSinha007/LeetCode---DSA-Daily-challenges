@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0202-happy-number) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0424-longest-repeating-character-replacement) |
@@ -95,6 +97,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0189-rotate-array) |
