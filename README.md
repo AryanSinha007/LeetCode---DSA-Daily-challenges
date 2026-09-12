@@ -32,6 +32,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2460-apply-operations-to-an-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -51,6 +52,7 @@
 | [0844-backspace-string-compare](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0977-squares-of-a-sorted-array) |
+| [2460-apply-operations-to-an-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0844-backspace-string-compare) |
+| [2460-apply-operations-to-an-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Tree
 |  |
