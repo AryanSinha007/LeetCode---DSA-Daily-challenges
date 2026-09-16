@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0057-insert-interval) |
@@ -274,6 +275,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0033-search-in-rotated-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
