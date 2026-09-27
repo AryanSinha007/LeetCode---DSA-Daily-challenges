@@ -13,6 +13,7 @@
 | [0045-jump-game-ii](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0135-candy) |
@@ -46,6 +47,7 @@
 | [0027-remove-element](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0189-rotate-array) |
@@ -173,6 +175,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0455-assign-cookies) |
@@ -300,4 +303,12 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0881-boats-to-save-people) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
