@@ -26,6 +26,7 @@
 | [0410-split-array-largest-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0455-assign-cookies) |
+| [0643-maximum-average-subarray-i](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0643-maximum-average-subarray-i) |
 | [0860-lemonade-change](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0881-boats-to-save-people) |
@@ -81,6 +82,7 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0992-subarrays-with-k-different-integers) |
