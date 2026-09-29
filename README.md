@@ -38,6 +38,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2460-apply-operations-to-an-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/3875-construct-uniform-parity-array-i) |
@@ -188,6 +189,7 @@
 | [0881-boats-to-save-people](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -294,6 +296,7 @@
 | [0410-split-array-largest-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Linked List
 |  |
 | ------- |
