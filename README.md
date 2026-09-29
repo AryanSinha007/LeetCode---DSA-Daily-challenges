@@ -21,6 +21,7 @@
 | [0137-single-number-ii](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0209-minimum-size-subarray-sum) |
 | [0260-single-number-iii](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0410-split-array-largest-sum) |
@@ -87,6 +88,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0904-fruit-into-baskets) |
@@ -117,6 +119,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0410-split-array-largest-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1004-max-consecutive-ones-iii) |
@@ -302,6 +305,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0033-search-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1004-max-consecutive-ones-iii) |
