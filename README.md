@@ -97,6 +97,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1004-max-consecutive-ones-iii) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -116,6 +117,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0844-backspace-string-compare) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
