@@ -11,6 +11,7 @@
 | [0031-next-permutation](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0075-sort-colors) |
@@ -146,6 +147,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -210,6 +212,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0410-split-array-largest-sum) |
