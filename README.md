@@ -26,6 +26,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0209-minimum-size-subarray-sum) |
 | [0260-single-number-iii](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0455-assign-cookies) |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0930-binary-subarrays-with-sum) |
@@ -346,4 +348,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0075-sort-colors) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
