@@ -47,6 +47,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1991-find-the-middle-index-in-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2460-apply-operations-to-an-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -139,6 +140,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1991-find-the-middle-index-in-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1991-find-the-middle-index-in-array) |
 ## Math
 |  |
 | ------- |
