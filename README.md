@@ -33,6 +33,7 @@
 | [0455-assign-cookies](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0881-boats-to-save-people) |
@@ -133,6 +134,7 @@
 | [0303-range-sum-query-immutable](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1248-count-number-of-nice-subarrays) |
