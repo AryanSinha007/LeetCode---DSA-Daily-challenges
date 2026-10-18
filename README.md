@@ -153,6 +153,7 @@
 | [0231-power-of-two](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1248-count-number-of-nice-subarrays) |
 | [1486-xor-operation-in-an-array](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/1486-xor-operation-in-an-array) |
+| [2235-add-two-integers](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/2235-add-two-integers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AryanSinha007/LeetCode---DSA-Daily-challenges/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
